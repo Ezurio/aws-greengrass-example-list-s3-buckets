@@ -1,0 +1,16 @@
+{
+  "component": {
+    "com.example.ListS3Buckets": {
+      "author": "YOUR NAME",
+      "version": "1.0.0",
+      "build": {
+        "build_system": "zip"
+      },
+      "publish": {
+        "bucket": "YOUR BUCKET NAME",
+        "region": "YOUR AWS REGION"
+      }
+    }
+  },
+  "gdk_version": "1.0.0"
+}
