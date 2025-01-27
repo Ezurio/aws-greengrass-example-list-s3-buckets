@@ -2,7 +2,7 @@
 
 This archive is meant as a working example of creating a simple component for AWS IoT Greengrass V2.
 
-This project assumes you have already followed the steps necessary to provision one or more Laird Connectivity Sentrius IG60s with AWS IoT Greengrass Version 2.
+This project assumes you have already followed the steps necessary to provision one or more Sentrius IG60s with AWS IoT Greengrass Version 2.
 
 This project is based on this example:
 https://docs.aws.amazon.com/greengrass/v2/developerguide/interact-with-aws-services.html
